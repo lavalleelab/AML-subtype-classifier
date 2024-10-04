@@ -8,7 +8,7 @@ As a result, we have developed a molecular classifier for AML based on transcrip
 
 ### Tutorial
 
-- [Python tutorial](https://github.com/lavalleelab/AML-subtype-classifier/blob/add-classifier/AML_subtype_classifier_python.ipynb)
+- [Python tutorial](https://github.com/lavalleelab/AML-subtype-classifier/blob/main/AML_subtype_classifier_python.ipynb)
 
 
 ### Authors / Credits
