@@ -14,8 +14,8 @@ As a result, we have developed a molecular classifier for AML based on transcrip
 ### Authors / Credits
 
 - [Maylis Heussner](https://github.com/maheuss)
-- [Véronique Lisi](https://github.com/veroniquelisichusj)
 - [Banafsheh Khakipoor](https://github.com/BanafshehKhaki)
+- [Véronique Lisi](https://github.com/veroniquelisichusj)
 - [Sébastien Lemieux](https://github.com/sebastien-lemieux)
 - Vincent-Philippe Lavallée
 
